@@ -1,0 +1,21 @@
+h1{
+    width:100%;
+    font-size: 30px !important;
+    margin:0;
+
+}
+.footer{
+  position:fixed;
+ bottom:0;
+ width:100%;
+ background-color:blue;
+ color: white;
+ text-align: center;
+ 
+}
+Canvas{
+    border: solid red 2px;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px red;
+}
